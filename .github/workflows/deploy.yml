@@ -1,0 +1,43 @@
+name: Сайт
+# Publishes main (the built app in myworld/) to GitHub Pages together with the branch `data` under myworld/live/:
+# the app reads its feed, prices and catalogs from there. Runs after every new build (push to main, from the closed
+# source repository) and after every collection (feed.yml).
+on:
+  push:
+    branches: [main]
+  workflow_call:
+  workflow_dispatch:
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    concurrency:
+      group: pages
+      cancel-in-progress: false
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+          path: site
+      - name: Данные
+        run: |
+          rm -rf site/.git site/.github site/collector
+          if git clone -q --depth 1 --branch data "https://github.com/$GITHUB_REPOSITORY" data; then
+            for d in feed catalog; do
+              if [ -d "data/$d" ]; then mkdir -p "site/myworld/live/$d" && cp data/$d/*.json "site/myworld/live/$d/"; fi
+            done
+            rm -f site/myworld/live/feed/prices-history.json
+          fi
+          du -sh site
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: site
+      - id: deployment
+        uses: actions/deploy-pages@v4

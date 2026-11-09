@@ -1,0 +1,102 @@
+name: Лента — новости и цены
+# Every 15 min (started by the feed-kick function; GitHub's own schedule below is a late backup): collects travel news,
+# scans ticket prices, publishes them to the `data` branch (a single commit), posts what is new to the Telegram channel
+# and redeploys the site with the fresh data (deploy.yml). The scripts in collector/ are built from the closed source.
+on:
+  schedule:
+    - cron: '7 * * * *'
+  workflow_dispatch:
+    inputs:
+      probe:
+        description: 'Проверить источники (через пробел) без публикации'
+        required: false
+        default: ''
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+concurrency:
+  group: feed
+  cancel-in-progress: false
+jobs:
+  feed:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: 22
+      - name: Ветка data
+        env:
+          REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
+        run: |
+          if git ls-remote --exit-code --heads "$REMOTE" data >/dev/null; then
+            git clone --depth 1 --branch data "$REMOTE" feed-data
+            echo "LEASE=$(git -C feed-data rev-parse HEAD)" >> "$GITHUB_ENV"
+          else
+            mkdir feed-data && git -C feed-data init -b data && git -C feed-data remote add origin "$REMOTE"
+            echo "LEASE=" >> "$GITHUB_ENV"
+          fi
+      - name: Новости
+        run: node collector/collect.mjs
+        env:
+          FEED_DIR: ${{ github.workspace }}/feed-data/feed
+          PROBE: ${{ inputs.probe }}
+          DRY: ${{ inputs.probe != '' && '1' || '' }}
+      - name: Цены
+        if: ${{ !inputs.probe }}
+        run: node collector/prices.mjs
+        env:
+          FEED_DIR: ${{ github.workspace }}/feed-data/feed
+          TRAVELPAYOUTS_TOKEN: ${{ secrets.TRAVELPAYOUTS_TOKEN }}
+          TRAVELPAYOUTS_MARKER: ${{ secrets.TRAVELPAYOUTS_MARKER }}
+      - name: Публикация
+        if: ${{ !inputs.probe }}
+        working-directory: feed-data
+        run: |
+          git config user.name Claude
+          git config user.email noreply@anthropic.com
+          git checkout --orphan next
+          git add -A
+          git commit -q -m "Лента $(date -u +%FT%H:%MZ)"
+          # Fails (and the next hour retries) if the daily digest was pushed while this run worked.
+          if [ -n "$LEASE" ]; then git push --force-with-lease=data:$LEASE origin next:data; else git push origin next:data; fi
+      - name: Telegram-канал
+        if: ${{ !inputs.probe }}
+        # Posts what is new. What was posted is kept in the branch `tg`. A failure here does not
+        # stop the rest: the next run catches up.
+        continue-on-error: true
+        env:
+          FEED_DIR: ${{ github.workspace }}/feed-data/feed
+          TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
+          TELEGRAM_CHANNEL: ${{ vars.TELEGRAM_CHANNEL }}
+          TG_STATE: ${{ github.workspace }}/tg-state/state.json
+          REMOTE: https://x-access-token:${{ github.token }}@github.com/${{ github.repository }}
+        run: |
+          if [ -z "$TELEGRAM_BOT_TOKEN" ] || [ -z "$TELEGRAM_CHANNEL" ]; then echo "Канал не настроен"; exit 0; fi
+          if git ls-remote --exit-code --heads "$REMOTE" tg >/dev/null; then
+            git clone -q --depth 1 --branch tg "$REMOTE" tg-state
+          else
+            mkdir tg-state && git -C tg-state init -q -b tg && git -C tg-state remote add origin "$REMOTE"
+          fi
+          node collector/telegram.mjs || code=$?
+          cd tg-state
+          if [ -f state.json ]; then
+            git config user.name Claude && git config user.email noreply@anthropic.com
+            git checkout -q --orphan next && git add -A && git commit -q -m "Telegram $(date -u +%FT%H:%MZ)"
+            git push -q -f origin next:tg
+          fi
+          exit ${code:-0}
+      - name: Push курортов
+        if: ${{ !inputs.probe }}
+        # Delivers fresh official notices of ski resorts to subscribed phones (supabase/functions/myworld-push).
+        run: curl -sS -m 90 -X POST https://gpnpqwyniqmdinwazegh.supabase.co/functions/v1/myworld-push -H 'content-type:application/json' -d '{"action":"notify"}' || true
+  site:
+    needs: feed
+    if: ${{ !inputs.probe }}
+    uses: ./.github/workflows/deploy.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write
