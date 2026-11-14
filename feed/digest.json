@@ -1,0 +1,1770 @@
+{
+ "updatedAt": "2026-11-11T16:24:59.324Z",
+ "digests": [
+  {
+   "date": "2026-11-11",
+   "createdAt": "2026-11-11T16:24:59.324Z",
+   "lead": "Etihad сокращает рейсы в Москву, Латвия продлила ограничения, сбои в Пулково, распродажи 11.11",
+   "main": [
+    {
+     "title": "Etihad сократит рейсы в Москву и уйдёт с Сейшел",
+     "text": "В первом квартале 2027 года Etihad Airways уменьшит число рейсов в Москву, на Мальдивы и в Таиланд, а полёты на Сейшелы прекратит совсем. Основные изменения придутся на январь и февраль.",
+     "newsIds": [
+      "atorus:41495",
+      "tourdom:https://www.tourdom.ru/news/seyshely-bez-reysov-etihad-airways-stolknutsya-li-turisty-s-problemami.html"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41495"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/etihad-airways-sokratit-chislo-reysov-v-moskvu-i-perestanet-letat-na-seyshely.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31486"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/seyshely-bez-reysov-etihad-airways-stolknutsya-li-turisty-s-problemami.html"
+      }
+     ],
+     "key": "рейсы в Москву"
+    },
+    {
+     "title": "Латвия продлила ограничения на въезд для россиян",
+     "text": "Латвия сохранила ограничения на въезд и выдачу виз гражданам России. МИД объяснил это обстановкой в регионе и внутренней безопасностью.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/latviya-prodlila-ogranicheniya-na-vezd-i-vydachu-viz-dlya-grazhdan-rf-29431.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/latviya-prodlila-ogranicheniya-na-vezd-i-vydachu-viz-dlya-grazhdan-rf-29431.html"
+      },
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19721"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41499"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16115"
+      }
+     ],
+     "key": "продлила ограничения"
+    },
+    {
+     "title": "В Пулково отменены и задержаны десятки рейсов",
+     "text": "Утром 11 ноября в Пулково сняли временные ограничения после атаки беспилотников на Ленобласть, но расписание не восстановилось: 20 рейсов отменены, ещё 69 задерживались.",
+     "newsIds": [
+      "atorus:41492"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41492"
+      }
+     ],
+     "key": "Пулково"
+    },
+    {
+     "title": "Распродажа 11.11: билеты «Победы» от 999 ₽ и скидки других авиакомпаний",
+     "text": "«Победа» продавала билеты от 999 ₽ на вылеты до 27 марта 2027 года, в том числе за границу. Скидки также объявили Red Wings, Belavia, «Якутия» и Utair — у некоторых акции продлятся несколько дней.",
+     "newsIds": [
+      "tipical_vizovik:19719",
+      "ranarod:31484",
+      "pobedaairlines:1781",
+      "ranarod:31482",
+      "uletet_1:16109",
+      "utair:3200"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19719"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31484"
+      },
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1781"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31482"
+      }
+     ],
+     "key": "Распродажа 11.11"
+    },
+    {
+     "title": "Таиланд перенёс срок введения туристического сбора",
+     "text": "В Таиланде снова изменили дату, с которой начнут брать въездной сбор с иностранных туристов.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/v-tailande-izmenili-srok-vvedeniya-turisticheskogo-sbora.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-tailande-izmenili-srok-vvedeniya-turisticheskogo-sbora.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31490"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41513"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16116"
+      }
+     ],
+     "key": "туристического сбора"
+    }
+   ],
+   "other": [
+    {
+     "title": "Египет откажется от бумажных миграционных карт",
+     "text": "Власти Египта вновь подтвердили, что туристам больше не придётся заполнять бумажные карточки по прилёте.",
+     "newsIds": [
+      "atorus:41496"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41496"
+      }
+     ]
+    },
+    {
+     "title": "Всеобщая забастовка в Испании",
+     "text": "11 ноября забастовка затронула транспорт и авиарейсы в Испанию, из неё и внутри страны: ожидается много отмен.",
+     "newsIds": [
+      "loyaltyshmoyalty:12158"
+     ],
+     "links": [
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/12158"
+      }
+     ]
+    },
+    {
+     "title": "Ryanair закрывает регистрацию за 60 минут до вылета",
+     "text": "С 10 ноября регистрация и сдача багажа во всех аэропортах лоукостера заканчиваются за час до вылета вместо 40 минут.",
+     "newsIds": [
+      "ranarod:31476"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31476"
+      }
+     ]
+    },
+    {
+     "title": "Вьетнам предложил новые визы",
+     "text": "Обсуждаются специальные визы для цифровых кочевников и тех, кто едет на долгое лечение, а также расширение безвизового въезда.",
+     "newsIds": [
+      "tipical_vizovik:19727"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19727"
+      }
+     ]
+    },
+    {
+     "title": "Поезда в Архангельской области идут с задержками",
+     "text": "После схода вагонов на участке Черёмуха – Виледь пассажиров перевозят автобусами между Виледью и Сольвычегодском, задержанные поезда постепенно возвращают в график.",
+     "newsIds": [
+      "telerzd:8989",
+      "telerzd:8987",
+      "telerzd:8982"
+     ],
+     "links": [
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8989"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8987"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8982"
+      }
+     ]
+    },
+    {
+     "title": "На Эльбрусе открыли горнолыжный сезон",
+     "text": "Первые лыжники вышли на двухкилометровую красную трассу на высоте до 3847 метров.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/na-elbruse-otkryli-gornolyzhnyy-sezon-na-vysote-do-3847-metrov-29449.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/na-elbruse-otkryli-gornolyzhnyy-sezon-na-vysote-do-3847-metrov-29449.html"
+      }
+     ]
+    },
+    {
+     "title": "В Хибины зимой — 25 рейсов в неделю",
+     "text": "Это почти вдвое больше, чем летом; на новогодние праздники забронировано уже 75% мест размещения.",
+     "newsIds": [
+      "atorus:41494"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41494"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/passazhiropotok-aeroporta-yoshkar-oly-posle-rekonstruktsii-dostignet-300-tys-chelovek-v-go-29469.html"
+      }
+     ]
+    },
+    {
+     "title": "Nouvelair добавила рейсы из России в Тунис",
+     "text": "Национальный перевозчик Туниса расширил программу на зиму и новогодние праздники.",
+     "newsIds": [
+      "tourprom:53685"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53685"
+      }
+     ]
+    },
+    {
+     "title": "Гонконг прощается с «Симфонией света»",
+     "text": "Последнее световое шоу над гаванью Виктория пройдёт 18 ноября 2026 года.",
+     "newsIds": [
+      "loyaltyshmoyalty:12165"
+     ],
+     "links": [
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/12165"
+      }
+     ]
+    },
+    {
+     "title": "Электронная виза в Россию — через КПП «Пограничный»",
+     "text": "Иностранцы с электронными визами теперь могут въезжать через этот пункт в Приморье.",
+     "newsIds": [
+      "ranarod:31478"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31478"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 11
+  },
+  {
+   "date": "2026-11-10",
+   "createdAt": "2026-11-10T16:25:09.945Z",
+   "lead": "обрушение ж/д моста в Архангельской области, дети в загранпаспортах, распродажа Red Wings, ливни на Пхукете",
+   "main": [
+    {
+     "title": "В Архангельской области рухнул ж/д мост: поезда на север задерживаются",
+     "text": "Утром 10 ноября на перегоне Черёмуха — Виледь обрушился пролёт моста и сошли вагоны грузового поезда, пострадавших нет. Движение остановлено, задерживаются 10 пассажирских поездов в Воркуту, Лабытнанги и Сыктывкар; пассажиров везут автобусами от Котласа-Южного до Виледи и пересаживают в резервные составы.",
+     "newsIds": [
+      "telerzd:8968",
+      "telerzd:8977",
+      "telerzd:8976",
+      "telerzd:8978"
+     ],
+     "links": [
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8968"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8977"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8976"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8978"
+      }
+     ],
+     "key": "поезда на север задерживаются"
+    },
+    {
+     "title": "С 2027 года детей перестанут вписывать в загранпаспорта родителей",
+     "text": "МВД прекратит делать такие отметки с января 2027 года. Уже выданные паспорта с вписанными детьми действуют до конца своего срока.",
+     "newsIds": [
+      "tipical_vizovik:19700"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19700"
+      }
+     ],
+     "key": "детей перестанут вписывать"
+    },
+    {
+     "title": "Red Wings снизила цены до 75% — покупать до 12 ноября",
+     "text": "Скидка действует на билеты туда-обратно, купленные 10–12 ноября, на перелёты с 16 ноября — по России и за границу, например в Минск, Батуми и Тбилиси.",
+     "newsIds": [
+      "uletet_1:16102",
+      "ranarod:31466"
+     ],
+     "links": [
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16102"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31466"
+      }
+     ],
+     "key": "Red Wings"
+    },
+    {
+     "title": "На Пхукете ждут сильных ливней и паводков до 13 ноября",
+     "text": "Экстренные службы острова переведены в режим повышенной готовности: с 9 по 13 ноября возможны внезапные наводнения, оползни и волны выше 2 метров в Андаманском море.",
+     "newsIds": [
+      "atorus:41469"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41469"
+      }
+     ],
+     "key": "сильных ливней"
+    },
+    {
+     "title": "Pegasus сняла с продажи один из рейсов Москва — Стамбул",
+     "text": "Пассажирам, уже купившим билеты, начали приходить уведомления об отмене вылета.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/pegasus-airlines-perestala-prodavat-bilety-na-odin-iz-reysov-iz-moskvy-v-stambul.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/pegasus-airlines-perestala-prodavat-bilety-na-odin-iz-reysov-iz-moskvy-v-stambul.html"
+      }
+     ],
+     "key": "один из рейсов Москва — Стамбул"
+    }
+   ],
+   "other": [
+    {
+     "title": "«Победа»: билеты от 999 ₽ только 11 ноября",
+     "text": "Распродажа откроется на сайте авиакомпании в 10:00 по Москве и продлится один день.",
+     "newsIds": [
+      "pobedaairlines:1780"
+     ],
+     "links": [
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1780"
+      }
+     ]
+    },
+    {
+     "title": "Air Arabia будет летать из Москвы в Шарджу дважды в день",
+     "text": "С 12 декабря вместо одного ежедневного рейса — два, билет в одну сторону от 23 тыс. рублей.",
+     "newsIds": [
+      "tipical_vizovik:19699"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19699"
+      }
+     ]
+    },
+    {
+     "title": "Red Wings откроет рейс Саратов — Тбилиси",
+     "text": "С 23 декабря Superjet 100 будет летать по средам.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/red-wings-s-23-dekabrya-nachnet-letat-iz-saratova-v-tbilisi-29271.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/red-wings-s-23-dekabrya-nachnet-letat-iz-saratova-v-tbilisi-29271.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31468"
+      }
+     ]
+    },
+    {
+     "title": "Emirates добавит зимой 31 рейс в неделю",
+     "text": "Дополнительные вылеты из Дубая — в Кейптаун, Найроби, на Пхукет, в Ханой и Манилу; россиянам это открывает стыковки через Дубай.",
+     "newsIds": [
+      "tourprom:53668"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53668"
+      }
+     ]
+    },
+    {
+     "title": "Таиланд отменяет рейсы на время праздника фонариков",
+     "text": "С 21 по 28 ноября из-за фестивалей Лой Кратонг и Йи Пенг отменены 108 рейсов, расписание ещё 80 изменено.",
+     "newsIds": [
+      "tourprom:53654"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53654"
+      }
+     ]
+    },
+    {
+     "title": "Мальдивы поменяли порядок заполнения декларации путешественника",
+     "text": "Турагенты видят в нововведении плюсы; перед поездкой стоит проверить новый алгоритм.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/na-maldivakh-izmenilsya-algoritm-zapolneniya-deklaratsii-puteshestvennika.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/na-maldivakh-izmenilsya-algoritm-zapolneniya-deklaratsii-puteshestvennika.html"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41486"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31473"
+      }
+     ]
+    },
+    {
+     "title": "Нячанг ввёл правила для пляжей",
+     "text": "Запрещены футбол на пляже, костры и мытьё с мылом в душевых; правила касаются также выгула питомцев и парковки.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/v-nyachange-zapretili-futbol-na-plyazhe-kostry-i-myte-s-mylom-v-dushe-29318.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-nyachange-zapretili-futbol-na-plyazhe-kostry-i-myte-s-mylom-v-dushe-29318.html"
+      }
+     ]
+    },
+    {
+     "title": "Эльбрус открывает горнолыжный сезон 11 ноября",
+     "text": "В первый день откроется трасса «Гарабаши — Мир», а праздник открытия пройдёт в декабре.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/gornolyzhnyy-sezon-na-elbruse-nachnetsya-11-noyabrya-29296.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/gornolyzhnyy-sezon-na-elbruse-nachnetsya-11-noyabrya-29296.html"
+      }
+     ]
+    },
+    {
+     "title": "Посольство на Шри-Ланке просит купаться только в безопасных местах",
+     "text": "Российским туристам советуют не заплывать там, где нет условий для безопасного купания.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/posolstvo-prizvalo-rossiyskikh-turistov-na-shri-lanke-plavat-tolko-v-bezopasnykh-mestakh.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/posolstvo-prizvalo-rossiyskikh-turistov-na-shri-lanke-plavat-tolko-v-bezopasnykh-mestakh.html"
+      }
+     ]
+    },
+    {
+     "title": "Узбекистан доведёт число рейсов в Китай до 114 в неделю",
+     "text": "Частоты вырастут и на маршрутах в Казахстан.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/uzbekistan-uvelichit-chislo-aviareysov-v-kitay-do-114-v-nedelyu-29262.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/uzbekistan-uvelichit-chislo-aviareysov-v-kitay-do-114-v-nedelyu-29262.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31474"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 8
+  },
+  {
+   "date": "2026-11-09",
+   "createdAt": "2026-11-09T16:24:48.584Z",
+   "lead": "проблемы с оплатой на Мальдивах, новые ограничения Финляндии, возврат билетов Red Wings, S7 летит из Иркутска в Дананг",
+   "main": [
+    {
+     "title": "Мальдивы: банк отклоняет платежи из России",
+     "text": "Крупнейший банк страны Bank of Maldives заявил, что не проводит платежи, связанные с Россией и её гражданами. Туристы рискуют получить отказ в заселении даже с оплаченным туром; туроператоры попросили помощи у Минэкономики и посольства.",
+     "newsIds": [
+      "tipical_vizovik:19686",
+      "tipical_vizovik:19692"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19686"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16098"
+      },
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19692"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/rossiya-i-maldivy-obsudyat-platezhi-turoperatorov-za-prozhivanie-29184.html"
+      }
+     ]
+    },
+    {
+     "title": "Финляндия готовит новые ограничения на въезд россиян",
+     "text": "Премьер Петтери Орпо заявил о новых ограничениях, которые могут коснуться и спортсменов.",
+     "newsIds": [
+      "tipical_vizovik:19688"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19688"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31449"
+      }
+     ]
+    },
+    {
+     "title": "Red Wings ввела платный возврат невозвратных билетов",
+     "text": "На прямых международных рейсах к тарифам «Лайт» и «Стандарт» можно докупить опцию возврата без штрафа — не позднее чем за 24 часа до вылета и только при покупке на сайте авиакомпании. Например, для Москвы — Тбилиси в «Стандарте» она стоит 1000 ₽.",
+     "newsIds": [
+      "frequentflyers:9707",
+      "ranarod:31452"
+     ],
+     "links": [
+      {
+       "name": "Frequent Flyers",
+       "url": "https://t.me/frequentflyers/9707"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31452"
+      }
+     ]
+    },
+    {
+     "title": "Анталья: в аэропорт советуют выезжать на час раньше",
+     "text": "С 9 по 20 ноября в Анталье проходит климатический саммит, на дорогах усилены проверки — особенно 9–11 ноября. Трансферы из Белека, Сиде и Аланьи могут идти дольше.",
+     "newsIds": [
+      "atorus:41452"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41452"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/turistov-v-antale-prosyat-ranshe-vyezzhat-v-aeroport-iz-za-klimaticheskoy-konferentsii.html"
+      }
+     ]
+    },
+    {
+     "title": "S7 запустит рейсы Иркутск — Дананг",
+     "text": "С 2 марта 2027 года по вторникам и субботам на A320, билет в одну сторону — от 22 300 ₽. Сейчас прямых рейсов по этому маршруту нет.",
+     "newsIds": [
+      "ranarod:31455"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31455"
+      }
+     ]
+    }
+   ],
+   "other": [
+    {
+     "title": "Кувейт упростил электронную визу для россиян",
+     "text": "На визовом портале пропало требование иметь визу США, Великобритании или Шенгена. Официального подтверждения нет, поэтому визу лучше оформить до вылета.",
+     "newsIds": [
+      "tipical_vizovik:19693"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19693"
+      }
+     ]
+    },
+    {
+     "title": "Гоа: консульство опровергло массовые депортации",
+     "text": "Генконсульство России в Мумбаи заявило, что проверки визового режима идут в обычном порядке. В АТОР считают, что туристам, соблюдающим сроки визы, депортация не грозит.",
+     "newsIds": [
+      "atorus:41457",
+      "tourdom:https://www.tourdom.ru/news/ator-organizovannym-turistam-iz-rossii-ne-grozit-massovaya-deportatsiya-iz-goa-29103.html"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41457"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/genkonsulstvo-ne-vidit-priznakov-massovoy-deportatsii-rossiyskikh-turistov-iz-goa.html"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16096"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/ator-organizovannym-turistam-iz-rossii-ne-grozit-massovaya-deportatsiya-iz-goa-29103.html"
+      }
+     ]
+    },
+    {
+     "title": "Мальдивская beOnd приостановила рейсы",
+     "text": "Бизнес-перевозчик отменил все регулярные рейсы с 30 октября по 30 ноября, включая направления из Мале в Мюнхен, Цюрих, Милан и Эр-Рияд.",
+     "newsIds": [
+      "atorus:41454"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41454"
+      },
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19691"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31451"
+      }
+     ]
+    },
+    {
+     "title": "Нячанг ввёл ограничения на центральном пляже",
+     "text": "Постановление от 6 ноября устанавливает десять групп запретов для отдыхающих на городском пляже и в прилегающих парках.",
+     "newsIds": [
+      "atorus:41463"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41463"
+      }
+     ]
+    },
+    {
+     "title": "Камбоджа, Лаос и Вьетнам обсуждают общую визу",
+     "text": "Один документ по образцу Шенгена позволит ездить по трём странам; идея входит в план совместного развития туризма на 2026–2028 годы.",
+     "newsIds": [
+      "ranarod:31448"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31448"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16095"
+      }
+     ]
+    },
+    {
+     "title": "Забастовка на аэроэкспрессе Инчхона 13 ноября",
+     "text": "Обычные поезда AREX между Сеулом и аэропортом могут ходить реже, экспресс обещают сохранить.",
+     "newsIds": [
+      "tipical_vizovik:19694"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19694"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31461"
+      }
+     ]
+    },
+    {
+     "title": "Пляжи Рас-эль-Хаймы снова открываются",
+     "text": "Подтверждено открытие пляжей Cove Rotana и BM Beach, купание возобновилось и у Rixos Al Mairid. Некоторые отели меняют маршруты бесплатных шаттлов.",
+     "newsIds": [
+      "atorus:41453",
+      "atorus:41462"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41453"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/oteli-v-ras-el-khayme-nachali-otkryvat-plyazhi-dlya-turistov.html"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41462"
+      }
+     ]
+    },
+    {
+     "title": "Венгрия хочет закрыть «золотые визы»",
+     "text": "Правительство предложило с 1 января 2027 года прекратить приём заявок на ВНЖ за инвестиции; выданные разрешения будут действовать до конца срока.",
+     "newsIds": [
+      "tipical_vizovik:19690"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19690"
+      }
+     ]
+    },
+    {
+     "title": "Новогодние каникулы продлятся 11 дней",
+     "text": "Россияне будут отдыхать с 31 декабря по 10 января.",
+     "newsIds": [
+      "atorus:41455"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41455"
+      }
+     ]
+    },
+    {
+     "title": "Распродажа 11.11 на Trip.com",
+     "text": "С 11 ноября — промокоды на отели и перелёты до 50%, скидки на поезда и парки развлечений; акции стартуют волнами в 12:00, 14:00 и 16:00.",
+     "newsIds": [
+      "ranarod:31447"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31447"
+      },
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1779"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 7
+  },
+  {
+   "date": "2026-11-04",
+   "createdAt": "2026-11-04T17:43:02.815Z",
+   "lead": "Задержки рейсов в Египет, перекрытый Крымский мост, распродажа «Победы», нехватка отелей во Вьетнаме на Новый год",
+   "main": [
+    {
+     "title": "Рейсы из Москвы в Египет снова задерживаются",
+     "text": "Вылеты в Хургаду и Шарм-эль-Шейх продолжают массово откладываться, и, по наблюдениям Турпрома, это связано не только с временными закрытиями аэропорта из-за угрозы БПЛА. Перед вылетом стоит проверять статус рейса.",
+     "newsIds": [
+      "tourprom:53527"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53527"
+      }
+     ]
+    },
+    {
+     "title": "Крымский мост перекрывали второй раз за двое суток",
+     "text": "Утром 4 ноября движение по мосту снова закрыли. На трассе М4-Дон, по отчётам водителей, перебоев с топливом нет.",
+     "newsIds": [
+      "tourprom:53526"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53526"
+      },
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/11782"
+      }
+     ]
+    },
+    {
+     "title": "Однодневная распродажа «Победы»",
+     "text": "По промокоду GORODA до 23:59 4 ноября даётся скидка 5% на тариф «Базовый» и 10% на «Выгодный» и «Максимум» на любые рейсы.",
+     "newsIds": [
+      "pobedaairlines:1773"
+     ],
+     "links": [
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1773"
+      }
+     ]
+    },
+    {
+     "title": "Рейс Air Serbia Белград — Москва вернули с полпути",
+     "text": "Самолёт развернули над Литвой и отправили обратно в Белград: по неофициальным данным, один из пассажиров, сербский политик Александр Вулин, прошёл на борт в обход предполётного досмотра.",
+     "newsIds": [
+      "ranarod:31397",
+      "simpleflying:https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/",
+      "loyaltyshmoyalty:11775",
+      "frequentflyers:9699"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31397"
+      },
+      {
+       "name": "Simple Flying",
+       "url": "https://simpleflying.com/moscow-flight-diverts-after-politician-skips-security/"
+      },
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/11775"
+      },
+      {
+       "name": "Frequent Flyers",
+       "url": "https://t.me/frequentflyers/9699"
+      }
+     ]
+    },
+    {
+     "title": "Отели Вьетнама на Новый год почти распроданы",
+     "text": "Туроператоры фиксируют рекордную глубину бронирования, свободных номеров на популярных курортах почти не осталось. На Фукуоке турагенты по несколько дней ждут подтверждения броней.",
+     "newsIds": [
+      "tourprom:53534",
+      "tourdom:https://www.tourdom.ru/news/na-fukuoke-zakanchivayutsya-mesta-na-noviy-god.html"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53534"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/na-fukuoke-zakanchivayutsya-mesta-na-noviy-god.html"
+      }
+     ]
+    }
+   ],
+   "other": [
+    {
+     "title": "Nordwind будет летать из Казани в Ташкент 4 раза в неделю",
+     "text": "С 28 ноября рейсы из Казани — по вторникам, средам, субботам и воскресеньям, обратно — по понедельникам, средам, четвергам и воскресеньям.",
+     "newsIds": [
+      "airportkazan:4392"
+     ],
+     "links": [
+      {
+       "name": "Аэропорт Казань",
+       "url": "https://t.me/airportkazan/4392"
+      }
+     ]
+    },
+    {
+     "title": "В Шардже и Аджмане снова можно купаться в море",
+     "text": "После разлива нефти пляжи открыли как минимум в четырёх отелях Шарджи, а в Аджмане отменили график посещения пляжа.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/turistam-v-otelyakh-shardzhi-snova-razreshili-kupatsya-v-more-posle-razliva-nefti.html",
+      "tourdom:https://www.tourdom.ru/news/turistam-v-otelyakh-adzhmana-razreshili-kupatsya-v-more-bez-ogranicheniy.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/turistam-v-otelyakh-shardzhi-snova-razreshili-kupatsya-v-more-posle-razliva-nefti.html"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/turistam-v-otelyakh-adzhmana-razreshili-kupatsya-v-more-bez-ogranicheniy.html"
+      }
+     ]
+    },
+    {
+     "title": "В Анкаре задержали более 30 россиянок",
+     "text": "После рейдов по ночным клубам их обвинили в нарушении морали и общественного порядка и поместили в депортационный центр до суда, сообщили в посольстве.",
+     "newsIds": [
+      "ranarod:31396",
+      "tourdom:https://www.tourdom.ru/news/vo-vremya-reydov-po-nochnym-klubam-turtsii-zaderzhali-bolee-30-rossiyanok.html"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31396"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-ankare-zaderzhali-34-rossiyanok-vo-vremya-reydov-v-nochnyh-klubah-28694.html"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/vo-vremya-reydov-po-nochnym-klubam-turtsii-zaderzhali-bolee-30-rossiyanok.html"
+      }
+     ]
+    },
+    {
+     "title": "Египет ужесточил въезд для граждан Киргизии, Таджикистана и Туркмении",
+     "text": "С 1 ноября для туристов из этих стран отменены прежние послабления и введены жёсткие ограничения на въезд.",
+     "newsIds": [
+      "tourprom:53529"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53529"
+      }
+     ]
+    },
+    {
+     "title": "Хуситы заявили об ударе по аэропорту Эр-Рияда",
+     "text": "Представитель движения сообщил о серьёзных повреждениях здания; власти Саудовской Аравии это не комментировали.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/husity-zayavili-o-raketnom-udare-po-aeroportu-er-riyada-28714.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/husity-zayavili-o-raketnom-udare-po-aeroportu-er-riyada-28714.html"
+      }
+     ]
+    },
+    {
+     "title": "Аэропорт Хургады поставил рекорд",
+     "text": "31 октября аэропорт принял больше всего пассажиров за сутки в своей истории, инфраструктура работает на пределе.",
+     "newsIds": [
+      "tourprom:53528"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53528"
+      }
+     ]
+    },
+    {
+     "title": "Круиз из Антальи с заходом в Албанию",
+     "text": "Astoria Grande впервые включила Албанию в маршрут: восьмидневные круизы стартуют 21 и 28 ноября с заходами в Саранду или Дуррес, Бодрум и Мармарис. Виза в Албанию входит в стоимость, цена — от 77 тыс. руб.",
+     "newsIds": [
+      "atorus:41394"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41394"
+      }
+     ]
+    },
+    {
+     "title": "В Турции пустят зимний туристический поезд Анкара — Карс",
+     "text": "«Восточный экспресс» (Turistik Doğu Ekspresi) будет ходить по маршруту Анкара — Карс — Анкара в сезон 2026–2027.",
+     "newsIds": [
+      "tourprom:53524"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53524"
+      }
+     ]
+    },
+    {
+     "title": "Ryanair предупредил о росте цен до 20%",
+     "text": "Крупнейший лоукостер Европы объясняет возможное подорожание билетов ростом расходов и цен на топливо.",
+     "newsIds": [
+      "tourprom:53523"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53523"
+      }
+     ]
+    },
+    {
+     "title": "Lufthansa покупает 44,9% TAP Air Portugal",
+     "text": "Соглашение с правительством Португалии подписано, сделку ещё должна одобрить Еврокомиссия. Лиссабон станет седьмым хабом группы.",
+     "newsIds": [
+      "simpleflying:https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/",
+      "loyaltyshmoyalty:11719"
+     ],
+     "links": [
+      {
+       "name": "Simple Flying",
+       "url": "https://simpleflying.com/lufthansa-signs-12b-deal-purchase-449pc-tap-air-portugal/"
+      },
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/11719"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 9
+  },
+  {
+   "date": "2026-11-03",
+   "createdAt": "2026-11-03T17:43:52.950Z",
+   "lead": "визы в Черногорию, отмены рейсов из-за ограничений неба, закрытие аэропорта Неаполя, новые рейсы в Дубай и Акабу",
+   "main": [
+    {
+     "title": "Черногория ввела визы для россиян",
+     "text": "Безвиз отменён с 1 ноября. Туроператоры ожидают, что страна потеряет до трети российских туристов, а местные политики называют решение ударом по экономике.",
+     "newsIds": [
+      "uletet_1:16048",
+      "tourprom:53505"
+     ],
+     "links": [
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16048"
+      },
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53505"
+      }
+     ]
+    },
+    {
+     "title": "Ограничения воздушного пространства сорвали десятки рейсов",
+     "text": "В Москве отменили десятки вылетов в Турцию, Египет и другие страны, у части туристов пропали стыковки в Стамбуле, Ереване и Баку. «Победа» сдвигает и отменяет рейсы, в Казани к ограничениям добавился густой туман — перед поездкой в аэропорт проверяйте статус рейса.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/v-moskve-otmeneny-desyatki-reysov-v-turtsiyu-egipet-i-drugie-strany.html",
+      "pobedaairlines:1771",
+      "airportkazan:4376"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-moskve-otmeneny-desyatki-reysov-v-turtsiyu-egipet-i-drugie-strany.html"
+      },
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1771"
+      },
+      {
+       "name": "Аэропорт Казань",
+       "url": "https://t.me/airportkazan/4376"
+      }
+     ]
+    },
+    {
+     "title": "Аэропорт Неаполя закрыт до конца ноября",
+     "text": "Там ремонтируют взлётно-посадочную полосу. Часть рейсов перевели в Салерно, между городами пустили дополнительные автобусы.",
+     "newsIds": [
+      "tipical_vizovik:19655"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19655"
+      }
+     ]
+    },
+    {
+     "title": "«Победа» полетела в Дубай из четырёх городов",
+     "text": "С конца октября рейсы выполняются из Уфы, Екатеринбурга, Казани и Владикавказа, все — в аэропорт Аль-Мактум (DWC). Также вернулись полёты Москва — Абу-Даби четыре раза в неделю.",
+     "newsIds": [
+      "tipical_vizovik:19654"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19654"
+      }
+     ]
+    },
+    {
+     "title": "Из Москвы в Акабу — прямым рейсом",
+     "text": "Royal Jordanian начнёт летать из Домодедова 19 декабря по вторникам, пятницам и субботам. Билеты уже продаются от 28 700 ₽ в одну сторону, с багажом 30 кг.",
+     "newsIds": [
+      "ranarod:31385"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31385"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41387"
+      }
+     ]
+    }
+   ],
+   "other": [
+    {
+     "title": "Azur air вернулась на Шри-Ланку",
+     "text": "Первый рейс после перерыва вылетел 1 ноября из Тюмени. Зимой авиакомпания будет летать туда из восьми российских городов на Boeing 767.",
+     "newsIds": [
+      "ranarod:31393"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31393"
+      },
+      {
+       "name": "Azur Air",
+       "url": "https://t.me/azurair_pressroom/237"
+      }
+     ]
+    },
+    {
+     "title": "Azur air снова урезает рейсы в Таиланд",
+     "text": "Сокращаются вылеты на Пхукет и в Паттайю из Москвы и регионов.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/reysy-azur-air-na-pkhuket-i-v-pattayyu-iz-moskvy-i-regionov-snova-sokraschayut.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/reysy-azur-air-na-pkhuket-i-v-pattayyu-iz-moskvy-i-regionov-snova-sokraschayut.html"
+      }
+     ]
+    },
+    {
+     "title": "Centrum Air: новые рейсы в Ташкент",
+     "text": "С 4 декабря — из Челябинска (вторник и пятница, от 21 500 ₽), с 1 января — из Тюмени по воскресеньям, от 17 500 ₽ в одну сторону.",
+     "newsIds": [
+      "ranarod:31383",
+      "ranarod:31394"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31383"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31394"
+      }
+     ]
+    },
+    {
+     "title": "Red Wings полетит в Израиль летом 2027-го",
+     "text": "Рейсы запланированы с 28 марта по 24 октября.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/red-wings-zaplanirovala-polety-v-izrail-na-letniy-sezon-2027-goda-28585.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/red-wings-zaplanirovala-polety-v-izrail-na-letniy-sezon-2027-goda-28585.html"
+      },
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41388"
+      }
+     ]
+    },
+    {
+     "title": "Возврат денег за отменённый рейс могут упростить",
+     "text": "Минтранс обсуждает с авиакомпаниями новый порядок возврата средств за билеты.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/mintrans-gotov-uprostit-vozvrat-sredstv-za-bilety-pri-otmene-reysa.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/mintrans-gotov-uprostit-vozvrat-sredstv-za-bilety-pri-otmene-reysa.html"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16052"
+      }
+     ]
+    },
+    {
+     "title": "«Уральские авиалинии» дали вернуть билет «Промо»",
+     "text": "Новая услуга «Полный возврат» стоит 2 500 ₽: при отказе не позже чем за сутки до вылета деньги за билет вернут целиком.",
+     "newsIds": [
+      "uralairlines:2316"
+     ],
+     "links": [
+      {
+       "name": "Уральские авиалинии",
+       "url": "https://t.me/uralairlines/2316"
+      }
+     ]
+    },
+    {
+     "title": "«Победа» готовит праздничную распродажу",
+     "text": "Она стартует 4 ноября, промокод перевозчик опубликует в 10:00 по Москве.",
+     "newsIds": [
+      "pobedaairlines:1772"
+     ],
+     "links": [
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1772"
+      }
+     ]
+    },
+    {
+     "title": "Дополнительная «Таврия» на Новый год",
+     "text": "Поезд №181/182 Санкт-Петербург — Симферополь будет ходить ежедневно в праздничный период через Тверь, Рязань, Воронеж и Ростов-на-Дону.",
+     "newsIds": [
+      "tavria_train:1788"
+     ],
+     "links": [
+      {
+       "name": "Гранд Сервис Экспресс (Таврия)",
+       "url": "https://t.me/tavria_train/1788"
+      }
+     ]
+    },
+    {
+     "title": "В Шерегеш — по единому билету",
+     "text": "Продаются комбинированные билеты «поезд до Новокузнецка + автобус до курорта» на поездки с 16 ноября по 26 апреля.",
+     "newsIds": [
+      "atorus:41373"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41373"
+      },
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8942"
+      }
+     ]
+    },
+    {
+     "title": "Тропу к Турьему озеру временно закрыли",
+     "text": "В Карачаево-Черкесии ограничили проход по маршруту длиной более 14 км через ущелье Алибек.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/v-karachaevo-cherkesii-vremenno-zakryli-marshrut-k-turemu-ozeru-28597.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-karachaevo-cherkesii-vremenno-zakryli-marshrut-k-turemu-ozeru-28597.html"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 12
+  },
+  {
+   "date": "2026-11-02",
+   "createdAt": "2026-11-02T18:00:15.158Z",
+   "lead": "Новый сбор РЖД за возврат билетов, ограничения в аэропорту Еревана, страховка для Кении, Tax Free в Японии",
+   "main": [
+    {
+     "title": "РЖД меняют сбор за возврат билетов",
+     "text": "С 1 декабря сбор при сдаче билета на поезд дальнего следования будет зависеть от того, сколько времени осталось до отправления, — максимум 10% стоимости. До 30 ноября включительно действует прежний сбор 3,70 ₽.",
+     "newsIds": [
+      "atorus:41359"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41359"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16041"
+      },
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19644"
+      }
+     ]
+    },
+    {
+     "title": "Аэропорт Еревана ограничил дневные рейсы",
+     "text": "В «Звартноце» идёт ремонт на пересечении полосы с рулёжной дорожкой, поэтому 2–6 ноября днём взлёты и посадки ограничены. Стоит проверить время своего рейса.",
+     "newsIds": [
+      "atorus:41369"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41369"
+      }
+     ]
+    },
+    {
+     "title": "Для Кении нужна местная медстраховка",
+     "text": "С 5 октября туристам для въезда нужен кенийский полис, оформленный через систему местного регулятора IRA. Российская страховка его не заменяет, сообщает консульский департамент МИД.",
+     "newsIds": [
+      "atorus:41368"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41368"
+      }
+     ]
+    },
+    {
+     "title": "В Японии новый порядок Tax Free",
+     "text": "С 1 ноября покупки оплачиваются полностью, а налог возвращают уже после прохождения границы в аэропорту. Способ возврата нужно выбрать заранее, ещё при покупке.",
+     "newsIds": [
+      "ranarod:31372"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31372"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16043"
+      }
+     ]
+    },
+    {
+     "title": "Безвиза для групп в Индию не будет",
+     "text": "Россия и Индия прекратили работу над соглашением о безвизовых поездках тургрупп. Планировалось пускать группы от 3 до 50 человек на срок до 21 дня.",
+     "newsIds": [
+      "tipical_vizovik:19645"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19645"
+      }
+     ]
+    }
+   ],
+   "other": [
+    {
+     "title": "Распродажа «Азимута»",
+     "text": "Билеты за границу от 3000 ₽ можно купить со 2 по 8 ноября на полёты с 9 ноября по 27 марта — например, Минводы — Ереван от 5900 ₽ в одну сторону.",
+     "newsIds": [
+      "ranarod:31375"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31375"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16042"
+      }
+     ]
+    },
+    {
+     "title": "Pyramids Airlines полетит в Россию зимой",
+     "text": "Египетский перевозчик откроет чартеры Шарм-эш-Шейх — Шереметьево с 15 ноября и Хургада — Шереметьево с 17 ноября, позже добавятся Екатеринбург и Уфа.",
+     "newsIds": [
+      "ranarod:31370"
+     ],
+     "links": [
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31370"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/turistam-mogut-predlozhit-reysy-v-egipet-esche-odnoy-aviakompanii.html"
+      }
+     ]
+    },
+    {
+     "title": "Utair открыл рейсы Тюмень — Шарм-эш-Шейх",
+     "text": "Первый рейс ушёл 31 октября, дальше самолёты летают раз в неделю по субботам.",
+     "newsIds": [
+      "utair:3192"
+     ],
+     "links": [
+      {
+       "name": "Utair",
+       "url": "https://t.me/utair/3192"
+      }
+     ]
+    },
+    {
+     "title": "Lufthansa требует аккаунт для онлайн-регистрации",
+     "text": "Чтобы зарегистрироваться онлайн на рейсы Lufthansa, SWISS, Austrian и других авиакомпаний группы, теперь нужен Travel ID. Правило вводят поэтапно: с 20 октября для части вылетов из стран Шенгена, со 2 ноября — для остальных.",
+     "newsIds": [
+      "loyaltyshmoyalty:11639"
+     ],
+     "links": [
+      {
+       "name": "Loyalty Shmoyalty",
+       "url": "https://t.me/loyaltyshmoyalty/11639"
+      }
+     ]
+    },
+    {
+     "title": "Безвиз с Китаем продлён до 1 января 2027",
+     "text": "Россия готова к полноценному безвизовому режиму, но условия нового соглашения ещё обсуждаются.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/rossiya-gotova-k-polnotsennomu-bezvizu-s-kitaem-peregovory-prodolzhayutsya-28495.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/rossiya-gotova-k-polnotsennomu-bezvizu-s-kitaem-peregovory-prodolzhayutsya-28495.html"
+      }
+     ]
+    },
+    {
+     "title": "Единый билет в Шерегеш",
+     "text": "Начались продажи билета «поезд + автобус»: поездом до Новокузнецка, оттуда автобусом до курорта. Перевозки идут с 16 ноября по 26 апреля.",
+     "newsIds": [
+      "telerzd:8942"
+     ],
+     "links": [
+      {
+       "name": "Телеграмма РЖД",
+       "url": "https://t.me/telerzd/8942"
+      }
+     ]
+    },
+    {
+     "title": "Индия напоминает об анкете Air Suvidha",
+     "text": "Перед вылетом нужно заполнить электронную медицинскую декларацию, в том числе россиянам, которые летят в Гоа.",
+     "newsIds": [
+      "atorus:41361"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41361"
+      }
+     ]
+    },
+    {
+     "title": "В Аджмане открываются пляжи",
+     "text": "Семь отелей эмирата подтвердили открытие пляжей на 2 ноября, в Шардже ограничения пока остаются.",
+     "newsIds": [
+      "atorus:41358"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41358"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-oae-otkryvaetsya-vsyo-bolshe-plyazhey-posle-razliva-nefti.html"
+      }
+     ]
+    },
+    {
+     "title": "В Сербии закрыли ALTA Banka",
+     "text": "Банк, выдававший карты россиянам, лишился лицензии, отделения закрыты. Вклады застрахованы до €50 000, порядок выплат объявят позже.",
+     "newsIds": [
+      "tipical_vizovik:19642"
+     ],
+     "links": [
+      {
+       "name": "Типичный визовик",
+       "url": "https://t.me/tipical_vizovik/19642"
+      }
+     ]
+    },
+    {
+     "title": "В Токио будут штрафовать за брошенные чемоданы",
+     "text": "Туристы часто оставляют старые чемоданы на улицах, у гостиниц и в аэропортах — только за 2025 год их нашли около 4,6 тыс.",
+     "newsIds": [
+      "atorus:41353"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41353"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 8
+  },
+  {
+   "date": "2026-11-01",
+   "createdAt": "2026-11-01T17:42:31.298Z",
+   "lead": "визы в Черногорию, электронное разрешение для Казахстана, задержки рейсов, протесты в Европе",
+   "main": [
+    {
+     "title": "Черногория ввела визы для россиян",
+     "text": "С 1 ноября въезд в Черногорию по одному загранпаспорту закрыт: консульский сбор — €35, через VFS Global услуги центра оплачиваются отдельно, документы принимают в восьми городах России. Без черногорской визы можно въехать с действующей шенгенской или американской визой. В ответ Россия введёт визы для граждан Черногории с 30 декабря.",
+     "newsIds": [
+      "atorus:41349",
+      "ranarod:31367"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41349"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16028"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/kazahstan-nachal-vnedryat-elektronnye-razresheniya-dlya-rossiyan-28390.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31368"
+      }
+     ]
+    },
+    {
+     "title": "Казахстан запускает электронные разрешения на въезд QazETA",
+     "text": "Систему вводят поэтапно: с 1 ноября разрешения проверяют в аэропорту Актау и на четырёх автомобильных КПП. Россиянам пока документ не нужен, обязательным он станет с 1 июля 2027 года.",
+     "newsIds": [
+      "atorus:41352"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41352"
+      }
+     ]
+    },
+    {
+     "title": "В октябре по расписанию вылетела лишь половина рейсов",
+     "text": "Из 69,2 тыс. рейсов 50 крупнейших авиакомпаний на табло российских аэропортов вовремя выполнены 51,3%, задержаны 44,4%, отменены 4,4%.",
+     "newsIds": [
+      "aviatorshina:7657"
+     ],
+     "links": [
+      {
+       "name": "Авиаторщина",
+       "url": "https://t.me/aviatorshina/7657"
+      },
+      {
+       "name": "Улетет",
+       "url": "https://t.me/uletet_1/16029"
+      }
+     ]
+    },
+    {
+     "title": "Задержки в Анталье и Самаре",
+     "text": "В терминале T2 аэропорта Антальи третий день подряд ни один рейс в Россию не вылетает по графику: 1 ноября задержаны все восемь, на Краснодар, Москву и другие города. В Самаре туристы почти полтора суток ждали вылета в Дубай.",
+     "newsIds": [
+      "tourprom:53469",
+      "tourdom:https://www.tourdom.ru/news/turistam-prishlos-pochti-poltora-sutok-zhdat-vyleta-v-dubay.html"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53469"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/turistam-prishlos-pochti-poltora-sutok-zhdat-vyleta-v-dubay.html"
+      }
+     ]
+    },
+    {
+     "title": "Протесты в туристических странах Европы",
+     "text": "Во Франции, Испании, Италии, Германии, Польше и других странах продолжаются массовые акции протеста, которые нередко перерастают в беспорядки и столкновения с полицией.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/v-turisticheskikh-tsentrakh-evropy-vspykhnuli-novye-besporyadki-i-pogromy.html",
+      "ranarod:31369"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/v-turisticheskikh-tsentrakh-evropy-vspykhnuli-novye-besporyadki-i-pogromy.html"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31362"
+      },
+      {
+       "name": "Ну чё, народ, погнали?!",
+       "url": "https://t.me/ranarod/31369"
+      }
+     ]
+    }
+   ],
+   "other": [
+    {
+     "title": "«Сапсаны» из Петербурга в Москву дорожают",
+     "text": "Цены на билеты на ближайшие даты превышают 100 тысяч рублей, недорогие места достаются немногим.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/tseny-biletov-na-sapsany-iz-pitera-v-moskvu-zashkalivayut-za-100-tysyach.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/tseny-biletov-na-sapsany-iz-pitera-v-moskvu-zashkalivayut-za-100-tysyach.html"
+      }
+     ]
+    },
+    {
+     "title": "«Победа»: последний день скидки на Турцию",
+     "text": "До 23:59 по Москве 1 ноября промокод LUKUM даёт 10% на рейсы в Турцию и обратно с вылетом со 2 ноября.",
+     "newsIds": [
+      "pobedaairlines:1769"
+     ],
+     "links": [
+      {
+       "name": "Победа",
+       "url": "https://t.me/PobedaAirlines/1769"
+      }
+     ]
+    },
+    {
+     "title": "Египет зовёт на средиземноморские курорты",
+     "text": "Каир объявил о чартерах из России на новые направления — Эль-Аламейн и Борг-эль-Араб — помимо привычного Красного моря.",
+     "newsIds": [
+      "tourprom:53461"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53461"
+      }
+     ]
+    },
+    {
+     "title": "Великобритания предупредила об угрозах на Ближнем Востоке",
+     "text": "МИД Великобритании включил 16 стран, в том числе Турцию, Египет и ОАЭ, в экстренное предупреждение из-за угрозы ракетных ударов и возможного закрытия неба.",
+     "newsIds": [
+      "tourprom:53471"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53471"
+      }
+     ]
+    },
+    {
+     "title": "В Таиланде массово закрываются отели",
+     "text": "По данным Kasikorn Research Centre, за девять месяцев 2026 года число закрытий отелей, хостелов и гестхаусов выросло на 42%. Параллельно туристическое управление выпустило путеводитель с 10 автомаршрутами по глубинке, а туры из Москвы можно найти от 75 тысяч рублей.",
+     "newsIds": [
+      "tourprom:53467",
+      "tourprom:53475",
+      "tourdom:https://www.tourdom.ru/news/u-turistov-est-vozmozhnost-otdokhnut-v-tailande-za-75-tysyach-rubley.html"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53467"
+      },
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53475"
+      },
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/u-turistov-est-vozmozhnost-otdokhnut-v-tailande-za-75-tysyach-rubley.html"
+      }
+     ]
+    },
+    {
+     "title": "Жалоб на турецкие отели стало почти втрое больше",
+     "text": "По данным Turizm Ajansı, летом число жалоб выросло на 168%: туристы недовольны гигиеной, питанием и скрытыми доплатами.",
+     "newsIds": [
+      "tourprom:53472"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53472"
+      }
+     ]
+    },
+    {
+     "title": "Россияне чаще ездят в Южную Корею",
+     "text": "С начала года — 193,7 тыс. поездок, на 13% больше, сообщила Национальная организация туризма Кореи.",
+     "newsIds": [
+      "tourdom:https://www.tourdom.ru/news/rossiyane-sovershili-1937-tys-poezdok-v-yuzhnuyu-koreyu-s-nachala-goda-28381.html"
+     ],
+     "links": [
+      {
+       "name": "Турдом",
+       "url": "https://www.tourdom.ru/news/rossiyane-sovershili-1937-tys-poezdok-v-yuzhnuyu-koreyu-s-nachala-goda-28381.html"
+      }
+     ]
+    },
+    {
+     "title": "Популярные направления осени",
+     "text": "По данным сервиса «Плати по всему миру», в бархатный сезон россияне чаще всего выбирали Турцию, Китай и ОАЭ.",
+     "newsIds": [
+      "tass:https://tass.ru/obschestvo/28275709"
+     ],
+     "links": [
+      {
+       "name": "ТАСС",
+       "url": "https://tass.ru/obschestvo/28275709"
+      }
+     ]
+    },
+    {
+     "title": "«Русский завтрак» в отелях",
+     "text": "Минпромторг рекомендовал гостиницам, пансионатам и ресторанам выделить в меню отдельный раздел с сырниками, блинами, кашей, пирогами и морсом.",
+     "newsIds": [
+      "atorus:41350"
+     ],
+     "links": [
+      {
+       "name": "АТОР",
+       "url": "https://t.me/atorus/41350"
+      }
+     ]
+    },
+    {
+     "title": "Обанкротился проект «пожизненного круиза»",
+     "text": "Проект Life at Sea Cruises (Miray Cruises) с трёхлетним кругосветным плаванием провалился, каждый из сотен покупателей потерял от $120 до $440 тысяч.",
+     "newsIds": [
+      "tourprom:53474"
+     ],
+     "links": [
+      {
+       "name": "Турпром",
+       "url": "https://t.me/tourprom/53474"
+      }
+     ]
+    }
+   ],
+   "sourcesCount": 8
+  }
+ ]
+}
