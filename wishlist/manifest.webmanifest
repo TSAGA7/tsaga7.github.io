@@ -1,17 +1,43 @@
 {
   "name": "Wishlist",
   "short_name": "Wishlist",
-  "description": "Список желаний: ссылка, цена и архив — всё на этом устройстве.",
+  "description": "Список желаний: покупки, поездки, накопления — всё на этом устройстве.",
   "id": "/wishlist/",
   "start_url": "/wishlist/",
   "scope": "/wishlist/",
   "display": "standalone",
+  "orientation": "portrait",
   "lang": "ru",
   "background_color": "#0c1018",
   "theme_color": "#0c1018",
   "icons": [
-    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
-    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
-    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
-  ]
+    {
+      "src": "/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon-maskable-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "share_target": {
+    "action": "/share",
+    "method": "POST",
+    "enctype": "multipart/form-data",
+    "params": {
+      "title": "title",
+      "text": "text",
+      "url": "url"
+    }
+  }
 }
